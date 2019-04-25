@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\bin\Debug\BAND A + B.exe.config
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\bin\Debug\BAND A + B.exe
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\bin\Debug\BAND A + B.pdb
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND A + B.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND_A___B.Form1.resources
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND_A___B.Properties.Resources.resources
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND A + B.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND A + B.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND A + B.exe
+C:\Users\yassi\Desktop\school\BAND A + B\BAND A + B\obj\Debug\BAND A + B.pdb
